@@ -50,8 +50,9 @@
 感谢腾讯AI平台提供语料搜索帮助。感谢Prof. Elaine Uí Dhonnchad的指导与帮助。
 参考语料：[Tencent AI Lab Embedding](https://metatext.io/datasets/tencent-ai-lab-embedding-corpus)
 
+---
 
-## 示例结果：  
+### 示例结果：  
 ```python
 >>> w2v_model.most_similar("傻逼", topn=5)
 [('煞笔', 0.9753), ('傻比', 0.9524), ('傻逼啊', 0.9431), ('傻b', 0.9292), ('大傻逼', 0.9223)]
