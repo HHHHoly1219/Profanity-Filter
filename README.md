@@ -33,15 +33,15 @@ However, the **variant phenomenon** in Chinese (homophones, character substituti
 
 ---
 ## 📊 Results
-	•	Successfully identified multiple variants of “傻逼” and “操”
-	•	Demonstrated the effectiveness of word embeddings for detecting disguised Chinese profanity
+- Successfully identified multiple variants of “傻逼” and “操”
+- Demonstrated the effectiveness of word embeddings for detecting disguised Chinese profanity
 
 ---
 
 ## 🚀 Future Work
-	•	Integrate larger corpora
-	•	Expand to more categories of sensitive words
-	•	Combine with sentiment analysis and deep learning models for improved accuracy
+- Integrate larger corpora
+- Expand to more categories of sensitive words
+- Combine with sentiment analysis and deep learning models for improved accuracy
 
 ---
 
